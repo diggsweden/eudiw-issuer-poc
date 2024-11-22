@@ -45,3 +45,6 @@ target
 .npm
 node_modules
 **/megalinter-reports
+
+issuer-jwt-ec256-key-pair.pem
+issuer-jwt-ec256-public-key.pem
