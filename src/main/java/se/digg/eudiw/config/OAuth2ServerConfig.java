@@ -47,7 +47,6 @@ import org.springframework.security.web.util.matcher.MediaTypeRequestMatcher;
 import se.digg.eudiw.authentication.*;
 import se.digg.eudiw.authorization.OAuth2ParAuthorizationCodeRequestAuthenticationConverter;
 import se.digg.eudiw.authorization.PreAuthCodeGrantAuthenticationConverter;
-import se.digg.eudiw.authorization.ParRequestFilter;
 import se.digg.eudiw.authorization.PreAuthCodeGrantAuthenticationProvider;
 import se.digg.eudiw.context.EudiwSessionSecurityContextRepository;
 
